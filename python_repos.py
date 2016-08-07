@@ -1,3 +1,6 @@
+#!/bin/env/python3
+# coding: utf-8
+
 import requests
 import pygal
 from pygal.style import LightColorizedStyle as LCS, LightenStyle as LS
